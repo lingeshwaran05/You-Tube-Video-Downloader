@@ -1,0 +1,44 @@
+YOUTUBE VIDEO DOWNLOADER
+
+ABSTRACT:
+
+You tube Video Downloader is an Web Application  to download videos from YouTube.
+
+ This provides users to download videos they need in their 
+devices and watch them offline.
+
+
+INTRODUCTION:
+
+The You tube downloader project is a Web Application 
+project.
+
+ The object of this project is to download any type of video in a fast and easy way from you tube with quality control in your device.
+
+
+PROBLEM:
+
+YouTube is very popular video sharing website. Downloading a video from YouTube is a tough job. 
+
+Downloading the Downloader and get the video using that or go to any other website with lots of ads and then which fetches the video and saves on your computer.
+
+
+LANGUAGES USED:
+
+HTML
+
+CSS
+
+BOOTSTRAP
+
+JQUERY
+
+
+FEATURES:
+
+Compare to other websites , our website does not contain any Ads
+
+We Introduced Quality control option up to high resolution (also only audio) to download best quality video
+
+Simple, Fast and efficient.
+
